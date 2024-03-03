@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Image, SafeAreaView, ScrollView, Text, TextInput, TouchableOpacity, View } from 'react-native';
+import { SafeAreaView, Text, TouchableOpacity, View } from 'react-native';
 
 
 function App() {
